@@ -30,6 +30,6 @@
 - 🥈 2020年08月 第十届全国大学生电子商务“创新、创意及创业”挑战赛 江苏省二等奖 
 
 # 💻 Internships
-- *2024.10 - 2025.04*, [Bizfinbench](https://hithink-research.github.io/BizFinBench/)Hithink Research, Hangzhou.
-- *2024.05 - 2024.09*, [INF-MLLM](https://github.com/infly-ai/INF-MLLM)INF, Hangzhou.
+- *2024.10 - 2025.04*, [Bizfinbench](https://hithink-research.github.io/BizFinBench/) Hithink Research, Hangzhou.
+- *2024.05 - 2024.09*, [INF-MLLM](https://github.com/infly-ai/INF-MLLM) INF, Hangzhou.
 - *2023.10 - 2024.05*, Baidu, Shanghai
