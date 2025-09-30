@@ -5,4 +5,4 @@ In addition, I interned at **Baidu**, **HiThink Research**, and **INF**, where m
 
 My research interests include Software Engineering and Large Language Models. 
 I have published 8 papers at the international Software Engineering and Artificial Intelligence conferences/journal. 
-These works have received a total of [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-137%20citations-blue?logo=google-scholar)](https://scholar.google.com/citations?user=uaEXxPgAAAAJ) on Google Scholar.
+These works have received a total of [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-171%20citations-blue?logo=google-scholar)](https://scholar.google.com/citations?user=uaEXxPgAAAAJ) on Google Scholar.
