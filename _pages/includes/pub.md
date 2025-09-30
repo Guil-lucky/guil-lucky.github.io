@@ -13,7 +13,7 @@
 3. [![JSS 2024](https://img.shields.io/badge/JSS-2024-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0164121224000748)  
    **GRACE: Empowering LLM-based Software Vulnerability Detection with Graph Structure and In-context Learning**  
    **Guilong Lu**, Xiaolin Ju*, Xiang Chen*, Wenlong Pei, Zhilong Cai  
-   _Journal of Systems and Software (CCF-B)_
+   _Journal of Systems and Software (CCF-B)_ 
    🏆 ESI Highly Cited Paper.
 
 5. [![APSEC 2023](https://img.shields.io/badge/APSEC-2023-orange)](https://ieeexplore.ieee.org/document/10479384/)  
