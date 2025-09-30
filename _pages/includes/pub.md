@@ -14,28 +14,29 @@
    **GRACE: Empowering LLM-based Software Vulnerability Detection with Graph Structure and In-context Learning**  
    **Guilong Lu**, Xiaolin Ju*, Xiang Chen*, Wenlong Pei, Zhilong Cai  
    _Journal of Systems and Software (CCF-B)_
+   🏆 ESI Highly Cited Paper.
 
-4. [![APSEC 2023](https://img.shields.io/badge/APSEC-2023-orange)](https://ieeexplore.ieee.org/document/10479384/)  
+5. [![APSEC 2023](https://img.shields.io/badge/APSEC-2023-orange)](https://ieeexplore.ieee.org/document/10479384/)  
    **Assessing the Effectiveness of Vulnerability Detection via Prompt Tuning: An Empirical Study**  
    **Guilong Lu**, Xiaolin Ju*, Xiang Chen*, Shaoyu Yang, Liang Chen, Hao Shen  
    _Asia-Pacific Software Engineering Conference (CCF-C)_
 
-5. [![ASEJ 2025](https://img.shields.io/badge/ASEJ-2025-blue)](https://link.springer.com/article/10.1007/s10515-025-00526-4)  
+6. [![ASEJ 2025](https://img.shields.io/badge/ASEJ-2025-blue)](https://link.springer.com/article/10.1007/s10515-025-00526-4)  
    **Semi-Supervised Software Vulnerability Assessment via Code Lexical and Structural Information Fusion**  
    Wenlong Pei, Yilin Huang, Xiang Chen*, **Guilong Lu**, Chao Ni, Yong Liu  
    _Automated Software Engineering (CCF-B)_
 
-6. [![JSS 2024](https://img.shields.io/badge/JSS-2024-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0164121224000815)  
+7. [![JSS 2024](https://img.shields.io/badge/JSS-2024-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0164121224000815)  
    **CSVD-TF: Cross-project Software Vulnerability Detection with TrAdaBoost by Fusing Expert Metrics and Semantic Metrics**  
    Zhilong Cai, Yongwei Cai, Xiang Chen*, **Guilong Lu**, Wenlong Pei, Junjie Zhao  
    _Journal of Systems and Software (CCF-B)_
 
-7. [![QRS 2022](https://img.shields.io/badge/QRS-2022-orange)](https://ieeexplore.ieee.org/document/10077037)  
+8. [![QRS 2022](https://img.shields.io/badge/QRS-2022-orange)](https://ieeexplore.ieee.org/document/10077037)  
    **SemirFL: Boosting Fault Localization via Combining Semantic Information and Information Retrieval**  
    Xiangyu Shi, Xiaolin Ju*, Xiang Chen, **Guilong Lu**, Mengqi Xu  
    _IEEE Conference on Software Quality, Reliability, and Security Companion (CCF-C)_
 
-8. [![DSA 2022](https://img.shields.io/badge/DSA-2022-lightgrey)](https://ieeexplore.ieee.org/document/9914512/)  
+9. [![DSA 2022](https://img.shields.io/badge/DSA-2022-lightgrey)](https://ieeexplore.ieee.org/document/9914512/)  
    **Blocking Bugs Identification via Binary Relevance and Logistic Regression Analysis**  
    Zhihua Chen, Xiaolin Ju*, **Guilong Lu**, Xiang Chen  
    _International Conference on Dependable Systems and Their Applications_
