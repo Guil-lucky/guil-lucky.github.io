@@ -1,8 +1,8 @@
 # 📝 Publications 
 
-1. [![ICML 2026](https://img.shields.io/badge/arXiv-preprint-b31b1b)](https://arxiv.org/abs/2601.06401)) 
+1. [![ICML 2026](https://img.shields.io/badge/ICML-2026-blue)](https://arxiv.org/abs/2601.06401)) 
    **BizFinBench.v2: A Unified Dual-Mode Bilingual Benchmark for Expert-Level Financial Capability Alignment**  
-   Xin Guo, Rongjunchen Zhang*, **Guilong Lu**, Xuntao Guo, Jia Shuai, Zhi Yang, Liwen Zhang*
+   Xin Guo, Rongjunchen Zhang*, **Guilong Lu**, Xuntao Guo, Jia Shuai, Zhi Yang, Liwen Zhang*  
    _This work was conducted during my internship at HiThink Research._
    _International Conference on Machine Learning (CCF-A)_
 
